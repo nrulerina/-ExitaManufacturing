@@ -85,4 +85,4 @@ To address these issues, this project introduces a centralized **Enterprise Reso
 ## 📁 Full Documentation
 
 For complete use case descriptions, diagrams, implementation phases, and testing results:  
-➡️ **Refer to** `Document/ESDM Project Report - Group4 Crafters.pdf`
+➡️ **Refer to** `document/ESDM Project Report - Group4 Crafters.pdf`
