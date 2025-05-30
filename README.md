@@ -77,6 +77,7 @@ To address these issues, this project introduces a centralized **Enterprise Reso
 <p align="center">
   <img src="images/sales_dashboard.png" alt="Sales Dashboard" width="60%">
 </p>
+
 > 📄 *For detailed dashboard and explanation, please refer to the project document.*
 
 ---
