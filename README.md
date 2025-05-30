@@ -55,29 +55,33 @@ To address these issues, this project introduces a centralized **Enterprise Reso
 
 ### 🧩 Enterprise Architecture of Exita Manufacturing ERP System
 
-![Enterprise Architecture](images/enterprise_architecture.png)
+<p align="center">
+  <img src="images/enterprise_architecture.png" alt="Enterprise Architecture" width="60%">
+</p>
 
 > 📄 *For detailed architecture layers and explanation, please refer to the project document.*
 
 ---
 
 ### 🖥️ System Architecture of Exita Manufacturing ERP System
+<p align="center">
+  <img src="images/system_architecture.png" alt="System Architecture" width="60%">
+</p>
 
-![System Architecture](images/system_architecture.png)
-
-> 📄 *For system components and integration overview, see the document.*
+> 📄 *For detailed architecture and explanation, please refer to the project document.*
 
 ---
 
 ## 📊 Exita Manufacturing Sales Dashboard
 
-![Sales Dashboard](images/sales_dashboard.png)
-
-> 📄 *Refer to the document for interactive features, filters, and full dashboard UI.*
+<p align="center">
+  <img src="images/sales_dashboard.png" alt="Sales Dashboard" width="60%">
+</p>
+> 📄 *For detailed dashboard and explanation, please refer to the project document.*
 
 ---
 
 ## 📁 Full Documentation
 
 For complete use case descriptions, diagrams, implementation phases, and testing results:  
-➡️ **Refer to** `ESDM Project Report - Group4 Crafters.pdf`
+➡️ **Refer to** `Document/ESDM Project Report - Group4 Crafters.pdf`
